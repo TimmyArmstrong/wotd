@@ -20,7 +20,7 @@ sentence = weather_data.get("weather_summary", "")
 # Construct text
 title = city
 subtitle = f"{state}, {region}"
-body_text = f"Tim is currently situated {altitude} metres above sea level.\n{sentence}"
+body_text = f"Currently {altitude} metres above sea level.\n{sentence}"
 
 # Image size
 WIDTH, HEIGHT = 296, 128
