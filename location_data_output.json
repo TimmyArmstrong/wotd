@@ -1,8 +1,8 @@
 {
-  "city": "Upper Hutt",
+  "city": "Lower Hutt",
   "state": "Wellington",
   "region": "New Zealand",
-  "altitude_metres": 69,
-  "latitude": -41.13,
-  "longitude": 175.07
+  "altitude_metres": 8,
+  "latitude": -41.22,
+  "longitude": 174.89
 }
