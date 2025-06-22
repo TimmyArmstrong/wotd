@@ -77,9 +77,9 @@ def get_weather_sentence(lat, long):
         
         feels_like = data['current']['feelslike_c']
         humidity = data['current']['humidity']
-        condition = data['current']['condition']['text']
+        condition = data['current']['condition']['text'].lower()
         
-        return f"Condtion is {condition}. Temperature feels like {feels_like}°C with {humidity}% humidity."
+        return f"Temperature feels like {feels_like}°C, with {humidity}% humidity. Condtion: {condition}."
     
     except (requests.RequestException, KeyError, ValueError):
         # Handle network errors, missing keys, or invalid JSON
