@@ -6,8 +6,8 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # Runs at minute 0 past every 4th hour (midnight, 4am, 8am, noon, 4pm, 8pm UTC)
-    - cron: '0 */4 * * *'
+    # Runs at minute 0 past every 2 hour (midnight, 4am, 8am, noon, 4pm, 8pm UTC)
+    - cron: '0 */2 * * *'
 
 permissions:
   contents: write
