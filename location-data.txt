@@ -26,3 +26,4 @@ Lower Hutt_Wellington_New Zealand_6.99093173705667_-41.22_174.89;
 Lower Hutt_Wellington_New Zealand_7.00981042369311_-41.22_174.89;
 Lower Hutt_Wellington_New Zealand_6.97978732591968_-41.22_174.89;
 Lower Hutt_Wellington_New Zealand_10.2253247924669_-41.22_174.89;
+Lower Hutt_Wellington_New Zealand_2.92967414855957_-41.22_174.89;
