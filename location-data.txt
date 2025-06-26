@@ -29,3 +29,4 @@ Lower Hutt_Wellington_New Zealand_10.2253247924669_-41.22_174.89;
 Lower Hutt_Wellington_New Zealand_2.92967414855957_-41.22_174.89;
 Waiouru_Manawatū-Whanganui_New Zealand_800.645002007996_-39.48_175.67;
 Taupō_Waikato_New Zealand_405.697134221089_-38.68_176.06;
+Taupō_Waikato_New Zealand_405.931947552002_-38.68_176.06;
