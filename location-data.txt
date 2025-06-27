@@ -32,3 +32,4 @@ Taupō_Waikato_New Zealand_405.697134221089_-38.68_176.06;
 Taupō_Waikato_New Zealand_405.931947552002_-38.68_176.06;
 Taupō_Waikato_New Zealand_405.925168834961_-38.68_176.06;
 Taupō_Waikato_New Zealand_406.099992358467_-38.68_176.06;
+Taupō_Waikato_New Zealand_406.846784230011_-38.68_176.06;
