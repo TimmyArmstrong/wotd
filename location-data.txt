@@ -53,3 +53,4 @@ Taupō_Waikato_New Zealand_405.580897701688_-38.68_176.06;
 Taupō_Waikato_New Zealand_405.783300875916_-38.68_176.06;
 Taihape_Manawatū-Whanganui_New Zealand_440.961652755737_-39.68_175.8;
 Lower Hutt_Wellington_New Zealand_7.79557991027832_-41.22_174.9;
+Lower Hutt_Wellington_New Zealand_3.80797004699707_-41.22_174.87;
