@@ -51,3 +51,4 @@ Taupō_Waikato_New Zealand_409.056061120042_-38.68_176.06;
 Taupō_Waikato_New Zealand_407.680897701688_-38.68_176.06;
 Taupō_Waikato_New Zealand_405.580897701688_-38.68_176.06;
 Taupō_Waikato_New Zealand_405.783300875916_-38.68_176.06;
+Taihape_Manawatū-Whanganui_New Zealand_440.961652755737_-39.68_175.8;
