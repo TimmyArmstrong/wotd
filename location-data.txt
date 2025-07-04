@@ -68,3 +68,4 @@ Lower Hutt_Wellington_New Zealand_18.9991298425733_-41.22_174.89;
 ___13.5111891118321_-37.01_174.79;
 Chek Lap Kok_New Territories_Hong Kong SAR, China_0_22.31_113.93;
 Sai Ying Pun_Hong Kong Island_Hong Kong SAR, China_15.0653076171875_22.29_114.14;
+Central_Hong Kong Island_Hong Kong SAR, China_57.9625487088259_22.28_114.15;
