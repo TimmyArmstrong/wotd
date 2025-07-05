@@ -73,3 +73,4 @@ Central_Hong Kong Island_Hong Kong SAR, China_59.7180831446337_22.28_114.15;
 Wan Chai_Hong Kong Island_Hong Kong SAR, China_25.1591234183991_22.28_114.17;
 Central_Hong Kong Island_Hong Kong SAR, China_59.1164103464247_22.28_114.15;
 Central_Hong Kong Island_Hong Kong SAR, China_59.6624852902146_22.28_114.16;
+Central_Hong Kong Island_Hong Kong SAR, China_59.48813127786_22.28_114.15;
