@@ -79,3 +79,4 @@ Kennedy Town_Hong Kong Island_Hong Kong SAR, China_21.4650709478952_22.28_114.13
 Central_Hong Kong Island_Hong Kong SAR, China_58.8798217773438_22.28_114.15;
 Central_Hong Kong Island_Hong Kong SAR, China_59.2539466879169_22.28_114.15;
 Central_Hong Kong Island_Hong Kong SAR, China_59.2105826811693_22.28_114.15;
+Jordan_Kowloon_Hong Kong SAR, China_4.35520035233498_22.3_114.17;
