@@ -83,3 +83,4 @@ Jordan_Kowloon_Hong Kong SAR, China_4.35520035233498_22.3_114.17;
 Shenzhen_Guangdong_China_16.7319078641012_22.53_114.11;
 Shenzhen_Guangdong_China_19.37_22.53_114.05;
 Shenzhen_Guangdong_China_123.18_22.53_114.05;
+Shenzhen_Guangdong_China_39.807004390904_22.54_114.08;
