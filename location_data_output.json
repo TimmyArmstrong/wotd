@@ -1,8 +1,8 @@
 {
-  "city": "Zhangjiajie",
-  "state": "Hunan",
+  "city": "",
+  "state": "",
   "region": "China",
-  "altitude_metres": 346,
-  "latitude": 29.34,
-  "longitude": 110.55
+  "altitude_metres": 330,
+  "latitude": 29.35,
+  "longitude": 110.54
 }
