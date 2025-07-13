@@ -100,3 +100,4 @@ Zhangjiajie_Hunan_China_525.026699317619_29.34_110.45;
 Zhangjiajie_Hunan_China_330.579222977896_29.35_110.54;
 Zhangjiajie_Hunan_China_339.399222977896_29.34_110.55;
 Zhangjiajie_Hunan_China_340.151621095836_29.34_110.55;
+Zhangjiajie_Hunan_China_345.989390476102_29.25_110.45;
