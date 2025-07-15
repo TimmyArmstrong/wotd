@@ -110,3 +110,4 @@ Zhangjiajie_Hunan_China_174.824666178989_29.11_110.48;
 Zhangjiajie_Hunan__174.699672698975_29.11_110.48;
 Zhangjiajie_Hunan_China_174.584827622993_29.11_110.48;
 Huaihua_Hunan_China_613.896047197142_27.61_110.77;
+Wuhan_Hubei_China_48.026047197142_30.61_114.42;
