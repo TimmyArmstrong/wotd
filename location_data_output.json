@@ -1,8 +1,8 @@
 {
-  "city": "Huaihua",
-  "state": "Hunan",
+  "city": "Wuhan",
+  "state": "Hubei",
   "region": "China",
-  "altitude_metres": 614,
-  "latitude": 27.61,
-  "longitude": 110.77
+  "altitude_metres": 48,
+  "latitude": 30.61,
+  "longitude": 114.42
 }
