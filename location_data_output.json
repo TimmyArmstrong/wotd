@@ -1,8 +1,8 @@
 {
-  "city": "Baoding",
-  "state": "Hebei",
+  "city": "Beijing",
+  "state": "",
   "region": "China",
-  "altitude_metres": 0,
-  "latitude": 39.24,
-  "longitude": 115.9
+  "altitude_metres": 46,
+  "latitude": 39.86,
+  "longitude": 116.39
 }
