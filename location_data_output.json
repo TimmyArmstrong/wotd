@@ -1,8 +1,8 @@
 {
-  "city": "",
+  "city": "Beijing",
   "state": "",
-  "region": "",
+  "region": "China",
   "altitude_metres": 48,
-  "latitude": 39.87,
+  "latitude": 39.94,
   "longitude": 116.39
 }
