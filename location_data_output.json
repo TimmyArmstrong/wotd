@@ -1,8 +1,8 @@
 {
-  "city": "Beijing",
-  "state": "",
+  "city": "Handan",
+  "state": "Hebei",
   "region": "China",
-  "altitude_metres": 47,
-  "latitude": 39.89,
-  "longitude": 116.31
+  "altitude_metres": 52,
+  "latitude": 36.56,
+  "longitude": 114.45
 }
