@@ -1,8 +1,8 @@
 {
-  "city": "",
-  "state": "",
-  "region": "",
-  "altitude_metres": 409,
-  "latitude": 34.29,
-  "longitude": 108.97
+  "city": "Chengdu",
+  "state": "Sichuan",
+  "region": "China",
+  "altitude_metres": 497,
+  "latitude": 30.65,
+  "longitude": 104.07
 }
