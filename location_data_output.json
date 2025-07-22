@@ -1,8 +1,8 @@
 {
-  "city": "Xi'an",
-  "state": "Shaanxi",
-  "region": "China",
+  "city": "",
+  "state": "",
+  "region": "",
   "altitude_metres": 409,
-  "latitude": 34.26,
-  "longitude": 108.96
+  "latitude": 34.29,
+  "longitude": 108.97
 }
