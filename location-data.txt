@@ -154,3 +154,4 @@ Chengdu_Sichuan_China_490.683092879691_30.64_104.07;
 Chengdu_Sichuan_China_508.282531738281_30.65_104.08;
 Chengdu_Sichuan_China_504.595011827391_30.65_104.07;
 Meishan_Sichuan_China_510.08_30.24_103.86;
+_Guangxi Zhuangzu Zizhiqu_China_116.608091062811_24.78_110.49;
