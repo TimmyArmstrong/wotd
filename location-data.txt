@@ -152,3 +152,4 @@ Chengdu_Sichuan_China_517.9723777771_30.73_104.1;
 Chengdu_Sichuan_China_498.048366642557_30.66_104.05;
 Chengdu_Sichuan_China_490.683092879691_30.64_104.07;
 Chengdu_Sichuan_China_508.282531738281_30.65_104.08;
+Chengdu_Sichuan_China_504.595011827391_30.65_104.07;
