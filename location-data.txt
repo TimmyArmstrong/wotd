@@ -157,3 +157,4 @@ Meishan_Sichuan_China_510.08_30.24_103.86;
 _Guangxi Zhuangzu Zizhiqu_China_116.608091062811_24.78_110.49;
 Guilin_Guangxi Zhuangzu Zizhiqu_China_120.725479277355_24.78_110.49;
 Guilin_Guangxi Zhuangzu Zizhiqu_China_137.711180190655_24.72_110.47;
+Guilin_Guangxi Zhuangzu Zizhiqu_China_117.692628860474_24.76_110.5;
