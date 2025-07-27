@@ -165,3 +165,4 @@ Guilin_Guangxi Zhuangzu Zizhiqu_China_123.511230221422_24.78_110.49;
 Guilin_Guangxi Zhuangzu Zizhiqu_China_119.424404144287_24.78_110.49;
 Guilin_Guangxi Zhuangzu Zizhiqu_China_120.577023642312_24.78_110.49;
 Guilin_Guangxi Zhuangzu Zizhiqu_China_123.753573641181_24.78_110.48;
+Zhaoqing_Guangdong_China_0_23.89_112.15;
