@@ -1,8 +1,8 @@
 {
-  "city": "Zhaoqing",
+  "city": "Guangzhou",
   "state": "Guangdong",
   "region": "China",
-  "altitude_metres": 0,
-  "latitude": 23.89,
-  "longitude": 112.15
+  "altitude_metres": -2,
+  "latitude": 23.13,
+  "longitude": 113.24
 }
