@@ -1,8 +1,8 @@
 {
-  "city": "Guangzhou",
+  "city": "Dongguan",
   "state": "Guangdong",
   "region": "China",
-  "altitude_metres": 65,
-  "latitude": 23.12,
-  "longitude": 113.25
+  "altitude_metres": 32,
+  "latitude": 22.84,
+  "longitude": 114.07
 }
