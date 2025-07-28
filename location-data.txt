@@ -170,3 +170,4 @@ Guangzhou_Guangdong_China_-1.88168334960938_23.13_113.24;
 Guangzhou_Guangdong_China_22.4678344726562_23.12_113.25;
 Guangzhou_Guangdong_China_27.8743650489413_23.12_113.25;
 Guangzhou_Guangdong_China_64.9466552734375_23.12_113.25;
+Dongguan_Guangdong_China_31.91_22.84_114.07;
