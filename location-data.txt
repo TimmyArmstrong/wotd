@@ -171,3 +171,4 @@ Guangzhou_Guangdong_China_22.4678344726562_23.12_113.25;
 Guangzhou_Guangdong_China_27.8743650489413_23.12_113.25;
 Guangzhou_Guangdong_China_64.9466552734375_23.12_113.25;
 Dongguan_Guangdong_China_31.91_22.84_114.07;
+Zhangzhou_Fujian_China_15.9558062553406_24.49_117.56;
