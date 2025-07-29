@@ -174,3 +174,4 @@ Dongguan_Guangdong_China_31.91_22.84_114.07;
 Zhangzhou_Fujian_China_15.9558062553406_24.49_117.56;
 Longyan_Fujian_China_402.295964753926_24.66_116.98;
 Longyan_Fujian_China_402.131641957462_24.66_116.98;
+Longyan_Fujian_China_402.097559234673_24.66_116.98;
