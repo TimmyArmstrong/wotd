@@ -1,8 +1,8 @@
 {
   "city": "Shanghai",
   "state": "",
-  "region": "",
-  "altitude_metres": 75,
+  "region": "China",
+  "altitude_metres": 13,
   "latitude": 31.26,
   "longitude": 121.48
 }
