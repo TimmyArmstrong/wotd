@@ -204,3 +204,4 @@ Hangzhou_Zhejiang_China_10.870381996643_30.26_120.16;
 Hangzhou_Zhejiang_China_39.9486093521118_30.27_120.16;
 Hangzhou_Zhejiang__16.1729153633118_30.26_120.15;
 Hangzhou_Zhejiang_China_14.5768071937561_30.26_120.15;
+Hangzhou_Zhejiang_China_6.58777570724487_30.24_120.42;
