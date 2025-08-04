@@ -1,8 +1,8 @@
 {
   "city": "Hangzhou",
   "state": "Zhejiang",
-  "region": "",
-  "altitude_metres": 16,
+  "region": "China",
+  "altitude_metres": 15,
   "latitude": 30.26,
   "longitude": 120.15
 }
