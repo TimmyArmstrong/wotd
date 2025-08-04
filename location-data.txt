@@ -207,3 +207,4 @@ Hangzhou_Zhejiang_China_14.5768071937561_30.26_120.15;
 Hangzhou_Zhejiang_China_6.58777570724487_30.24_120.42;
 Chek Lap Kok_New Territories_Hong Kong SAR, China_9.58_22.31_113.92;
 Zhongzheng District_Taipei City_Taiwan_12.4308071136475_25.05_121.51;
+Zhongzheng District_Taipei City_Taiwan_11.2730146284728_25.05_121.51;
