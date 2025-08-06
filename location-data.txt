@@ -216,3 +216,4 @@ Datong District_Taipei City_Taiwan_15.3712758416132_25.05_121.52;
 Datong District_Taipei City_Taiwan_14.9351614154875_25.05_121.52;
 Xinyi District_Taipei City_Taiwan_276.828089471906_25.02_121.58;
 Datong District_Taipei City_Taiwan_15.5405298250003_25.05_121.52;
+Datong District_Taipei City_Taiwan_13.6856920658951_25.05_121.52;
