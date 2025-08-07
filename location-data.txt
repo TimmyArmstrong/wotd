@@ -219,3 +219,4 @@ Datong District_Taipei City_Taiwan_15.5405298250003_25.05_121.52;
 Datong District_Taipei City_Taiwan_13.6856920658951_25.05_121.52;
 Datong District_Taipei City_Taiwan_13.3370716861183_25.05_121.52;
 Datong District_Taipei City_Taiwan_17.1604353640245_25.05_121.52;
+Beitou District_Taipei City_Taiwan_1017.96468734741_25.17_121.56;
