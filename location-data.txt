@@ -226,3 +226,4 @@ Xinyi District_Taipei City_Taiwan_90.9899501800537_25.04_121.57;
 Datong District_Taipei City_Taiwan_29.4350848865509_25.05_121.52;
 Datong District_Taipei City_Taiwan_15.8670253753662_25.05_121.52;
 Dayuan District_Taoyuan City_Taiwan_32.0966402068057_25.07_121.23;
+Busan_Busan_South Korea_13.47_35.17_128.95;
