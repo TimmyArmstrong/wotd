@@ -228,3 +228,4 @@ Datong District_Taipei City_Taiwan_15.8670253753662_25.05_121.52;
 Dayuan District_Taoyuan City_Taiwan_32.0966402068057_25.07_121.23;
 Busan_Busan_South Korea_13.47_35.17_128.95;
 Busan_Busan_South Korea_39.2535149383545_35.17_129.17;
+Busan_Busan_South Korea_38.9590264903843_35.17_129.17;
