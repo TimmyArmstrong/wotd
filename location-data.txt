@@ -234,3 +234,4 @@ Busan_Busan_South Korea_21.2065086364746_35.18_129.2;
 Busan_Busan_South Korea_36.8697166442871_35.17_129.18;
 Busan_Busan_South Korea_85.1735806895135_35.17_129.17;
 Busan_Busan_South Korea_85.1687665415642_35.17_129.17;
+Busan_Busan_South Korea_20.0334044316673_35.15_129.11;
