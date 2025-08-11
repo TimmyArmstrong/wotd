@@ -1,8 +1,8 @@
 {
-  "city": "Busan",
-  "state": "Busan",
+  "city": "Seoul",
+  "state": "Seoul",
   "region": "South Korea",
-  "altitude_metres": 12,
-  "latitude": 35.12,
-  "longitude": 129.04
+  "altitude_metres": 29,
+  "latitude": 37.55,
+  "longitude": 126.91
 }
