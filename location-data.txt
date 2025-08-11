@@ -242,3 +242,4 @@ Busan_Busan_South Korea_85.1687684489129_35.17_129.17;
 Busan_Busan_South Korea_12.2020617675781_35.12_129.04;
 Seoul_Seoul_South Korea_28.57_37.55_126.91;
 Seoul_Seoul_South Korea_36.7406319244331_37.55_126.92;
+Seoul_Seoul_South Korea_25.3548555522838_37.56_126.92;
