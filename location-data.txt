@@ -250,3 +250,4 @@ Seoul_Seoul_South Korea_23.9329833984375_37.55_126.9;
 Seoul_Seoul_South Korea_37.0991803021293_37.55_126.92;
 Seoul_Seoul_South Korea_30.8301314780116_37.55_126.91;
 Seoul_Seoul_South Korea_30.5865948606774_37.55_126.91;
+Seoul_Seoul_South Korea_16.1282258033224_37.55_126.92;
