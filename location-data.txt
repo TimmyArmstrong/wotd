@@ -258,3 +258,4 @@ Incheon_Incheon_South Korea_8.19515609741211_37.44_126.45;
 Venustiano Carranza_CDMX_Mexico_2241.99032211304_19.42_-99.08;
 Medellín_Antioquia_Colombia_1499.92351031037_6.21_-75.58;
 ___1491.82460037461_6.21_-75.58;
+Medellín_Antioquia_Colombia_1512.26080556906_6.25_-75.56;
