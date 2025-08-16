@@ -263,3 +263,4 @@ Medellín_Antioquia_Colombia_1499.48080556906_6.21_-75.58;
 Medellín_Antioquia_Colombia_1486.31828107769_6.21_-75.58;
 Medellín_Antioquia_Colombia_1497.95400594454_6.25_-75.56;
 Medellín_Antioquia_Colombia_1482.63028335571_6.25_-75.57;
+Medellín_Antioquia_Colombia_1557.14102554321_6.24_-75.55;
