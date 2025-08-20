@@ -281,3 +281,4 @@ Caldas_Antioquia_Colombia_1823.13167953491_6.07_-75.64;
 Jardín_Antioquia_Colombia_1592.03406076413_5.63_-75.87;
 Jardín_Antioquia_Colombia_1760.15400997162_5.6_-75.82;
 Jardín_Antioquia_Colombia_1762.93400997162_5.6_-75.82;
+Jardín_Antioquia_Colombia_1794.43145561218_5.6_-75.82;
