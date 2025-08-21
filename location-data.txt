@@ -284,3 +284,4 @@ Jardín_Antioquia_Colombia_1762.93400997162_5.6_-75.82;
 Jardín_Antioquia_Colombia_1794.43145561218_5.6_-75.82;
 Jardín_Antioquia_Colombia_1841.11651420686_5.59_-75.82;
 Jardín_Antioquia_Colombia_1744.9030199595_5.6_-75.82;
+Jardín_Antioquia_Colombia_1777.89532279968_5.6_-75.82;
