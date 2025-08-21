@@ -287,3 +287,4 @@ Jardín_Antioquia_Colombia_1744.9030199595_5.6_-75.82;
 Jardín_Antioquia_Colombia_1777.89532279968_5.6_-75.82;
 Jardín_Antioquia_Colombia_1744.8502872002_5.6_-75.82;
 Jericó_Antioquia_Colombia_595.519821166992_5.83_-75.73;
+Dosquebradas_Risaralda_Colombia_1426.32109069824_4.83_-75.68;
