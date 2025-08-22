@@ -290,3 +290,4 @@ Jericó_Antioquia_Colombia_595.519821166992_5.83_-75.73;
 Dosquebradas_Risaralda_Colombia_1426.32109069824_4.83_-75.68;
 Salento_Quindío_Colombia_2046.30129241943_4.64_-75.57;
 Salento_Quindío_Colombia_1951.96950531006_4.63_-75.57;
+Salento_Quindío_Colombia_1984.53102874756_4.63_-75.57;
