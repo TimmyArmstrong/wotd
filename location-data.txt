@@ -296,3 +296,4 @@ Salento_Quindío_Colombia_1999.07888031006_4.63_-75.57;
 Salento_Quindío_Colombia_1705.14720535278_4.61_-75.61;
 Salento_Quindío_Colombia_1981.90373760223_4.63_-75.57;
 Salento_Quindío_Colombia_1986.43383487701_4.63_-75.57;
+Salento_Quindío_Colombia_1972.89264040083_4.63_-75.57;
