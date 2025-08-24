@@ -302,3 +302,4 @@ Salento___1964.15921464508_4.63_-75.57;
 Salento_Quindío_Colombia_1972.79916367856_4.63_-75.57;
 Salento_Quindío_Colombia_1967.34485497354_4.63_-75.57;
 Salento_Quindío_Colombia_1987.19680023193_4.64_-75.57;
+Pereira_Risaralda_Colombia_1348.16556847921_4.82_-75.74;
