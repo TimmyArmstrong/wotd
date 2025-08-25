@@ -304,3 +304,4 @@ Salento_Quindío_Colombia_1967.34485497354_4.63_-75.57;
 Salento_Quindío_Colombia_1987.19680023193_4.64_-75.57;
 Pereira_Risaralda_Colombia_1348.16556847921_4.82_-75.74;
 Cartagena_Bolívar_Colombia_17.9392356816679_10.42_-75.55;
+Cartagena_Bolívar_Colombia_7.4517526789778_10.42_-75.55;
