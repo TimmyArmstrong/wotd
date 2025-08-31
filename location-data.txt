@@ -334,3 +334,4 @@ Cartagena_Bolívar_Colombia_5.80193706825242_10.4_-75.56;
 Cartagena_Bolívar_Colombia_7.99126815795898_10.43_-75.55;
 Cartagena_Bolívar_Colombia_9.26330917358398_10.43_-75.55;
 Cartagena_Bolívar_Colombia_7.50551213136268_10.43_-75.55;
+Sitionuevo_Magdalena_Colombia_9.09865951538086_10.96_-74.74;
