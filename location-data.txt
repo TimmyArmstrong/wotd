@@ -337,3 +337,4 @@ Cartagena_Bolívar_Colombia_7.50551213136268_10.43_-75.55;
 Sitionuevo_Magdalena_Colombia_9.09865951538086_10.96_-74.74;
 Santa Marta_Magdalena_Colombia_620.625298976898_11.15_-74.12;
 ___628.395806789398_11.15_-74.12;
+Santa Marta_Magdalena_Colombia_626.38_11.15_-74.11;
