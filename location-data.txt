@@ -338,3 +338,4 @@ Sitionuevo_Magdalena_Colombia_9.09865951538086_10.96_-74.74;
 Santa Marta_Magdalena_Colombia_620.625298976898_11.15_-74.12;
 ___628.395806789398_11.15_-74.12;
 Santa Marta_Magdalena_Colombia_626.38_11.15_-74.11;
+Santa Marta_Magdalena_Colombia_664.796685695648_11.13_-74.12;
