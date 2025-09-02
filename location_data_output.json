@@ -1,8 +1,8 @@
 {
-  "city": "Santa Marta",
-  "state": "Magdalena",
+  "city": "Dibulla",
+  "state": "La Guajira",
   "region": "Colombia",
-  "altitude_metres": 18,
-  "latitude": 11.28,
-  "longitude": -73.88
+  "altitude_metres": 6,
+  "latitude": 11.26,
+  "longitude": -73.56
 }
