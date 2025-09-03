@@ -348,3 +348,4 @@ Dibulla_La Guajira_Colombia_6.17619276046753_11.26_-73.56;
 Dibulla_La Guajira_Colombia_11.3944239523262_11.25_-73.56;
 Dibulla_La Guajira_Colombia_4.64337066623442_11.25_-73.56;
 Dibulla_La Guajira_Colombia_2.1928273624374_11.25_-73.56;
+Dibulla_La Guajira_Colombia_6.96668214797974_11.25_-73.56;
