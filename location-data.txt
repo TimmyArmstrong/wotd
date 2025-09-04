@@ -351,3 +351,4 @@ Dibulla_La Guajira_Colombia_2.1928273624374_11.25_-73.56;
 Dibulla_La Guajira_Colombia_6.96668214797974_11.25_-73.56;
 Santa Marta_Magdalena_Colombia_47.301836123181_11.28_-73.9;
 Santa Marta_Magdalena_Colombia_51.7887990474701_11.28_-73.9;
+Santa Marta_Magdalena_Colombia_42.4358001476406_11.28_-73.9;
