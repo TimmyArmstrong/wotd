@@ -354,3 +354,4 @@ Santa Marta_Magdalena_Colombia_51.7887990474701_11.28_-73.9;
 Santa Marta_Magdalena_Colombia_42.4358001476406_11.28_-73.9;
 Santa Marta_Magdalena_Colombia_25.4322316646576_11.29_-73.9;
 Santa Marta_Magdalena_Colombia_49.0229909420013_11.28_-73.9;
+Santa Marta_Magdalena_Colombia_42.7212331295013_11.28_-73.9;
