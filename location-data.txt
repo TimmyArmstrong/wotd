@@ -361,3 +361,4 @@ Santa Marta_Magdalena_Colombia_22.5925710201263_11.29_-73.9;
 ___14.9163189029694_11.12_-74.23;
 Rionegro_Antioquia_Colombia_2137.56789779663_6.17_-75.43;
 Quito_Pichincha_Ecuador_2200.61999276161_-0.12_-78.36;
+Quito_Pichincha_Ecuador_2820.38781738281_-0.22_-78.5;
