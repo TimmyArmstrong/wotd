@@ -363,3 +363,4 @@ Rionegro_Antioquia_Colombia_2137.56789779663_6.17_-75.43;
 Quito_Pichincha_Ecuador_2200.61999276161_-0.12_-78.36;
 Quito_Pichincha_Ecuador_2820.38781738281_-0.22_-78.5;
 Quito_Pichincha_Ecuador_2810.51638355013_-0.22_-78.51;
+Quito_Pichincha_Ecuador_2822.60064281192_-0.22_-78.5;
