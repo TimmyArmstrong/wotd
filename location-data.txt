@@ -367,3 +367,4 @@ Quito_Pichincha_Ecuador_2822.60064281192_-0.22_-78.5;
 Quito_Pichincha_Ecuador_2791.6233291626_-0.18_-78.48;
 Quito_Pichincha_Ecuador_2816.10208892822_-0.18_-78.47;
 Quito_Pichincha_Ecuador_2808.61283111572_-0.18_-78.47;
+Quijos_Napo_Ecuador_1893.49794769287_-0.46_-77.89;
