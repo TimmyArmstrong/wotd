@@ -370,3 +370,4 @@ Quito_Pichincha_Ecuador_2808.61283111572_-0.18_-78.47;
 Quijos_Napo_Ecuador_1893.49794769287_-0.46_-77.89;
 Tena_Napo_Ecuador_521.46764755249_-1.07_-77.9;
 Baños_Tungurahua_Ecuador_1809.90200227463_-1.4_-78.42;
+Baños_Tungurahua_Ecuador_1810.20270423889_-1.4_-78.42;
