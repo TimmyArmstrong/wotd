@@ -375,3 +375,4 @@ Baños_Tungurahua_Ecuador_1812.13379096985_-1.4_-78.42;
 Baños_Tungurahua_Ecuador_1810.20135097504_-1.4_-78.42;
 Baños_Tungurahua_Ecuador_1809.18908500671_-1.4_-78.42;
 Baños_Tungurahua_Ecuador_1810.74722849429_-1.4_-78.42;
+Baños_Tungurahua_Ecuador_1810.06561905017_-1.4_-78.42;
