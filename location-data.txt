@@ -380,3 +380,4 @@ Azogues_Canar_Ecuador_2350.31110022683_-2.83_-78.88;
 Cuenca_Azuay__2549.37505290794_-2.9_-79;
 Cuenca_Azuay_Ecuador_2520.87459945679_-2.91_-79;
 Cuenca_Azuay_Ecuador_2512.06121946571_-2.91_-79;
+Cuenca_Azuay_Ecuador_2522.42257525492_-2.91_-79;
