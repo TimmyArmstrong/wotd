@@ -384,3 +384,4 @@ Cuenca_Azuay_Ecuador_2522.42257525492_-2.91_-79;
 Cuenca_Azuay_Ecuador_2520.09188461304_-2.91_-79;
 Pasaje_El Oro_Ecuador_179.49862955045_-3.32_-79.68;
 Mancora_Tumbes_Peru_13.3645304726005_-4.11_-81.05;
+Mancora_Tumbes_Peru_8.7913868881512_-4.11_-81.05;
