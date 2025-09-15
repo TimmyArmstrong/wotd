@@ -382,3 +382,4 @@ Cuenca_Azuay_Ecuador_2520.87459945679_-2.91_-79;
 Cuenca_Azuay_Ecuador_2512.06121946571_-2.91_-79;
 Cuenca_Azuay_Ecuador_2522.42257525492_-2.91_-79;
 Cuenca_Azuay_Ecuador_2520.09188461304_-2.91_-79;
+Pasaje_El Oro_Ecuador_179.49862955045_-3.32_-79.68;
