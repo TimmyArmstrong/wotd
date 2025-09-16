@@ -386,3 +386,4 @@ Pasaje_El Oro_Ecuador_179.49862955045_-3.32_-79.68;
 Mancora_Tumbes_Peru_13.3645304726005_-4.11_-81.05;
 Mancora_Tumbes_Peru_8.7913868881512_-4.11_-81.05;
 Mancora_Tumbes_Peru_-8.27914428710938_-4.11_-81.06;
+Mancora_Tumbes_Peru_8.1437506666407_-4.11_-81.06;
