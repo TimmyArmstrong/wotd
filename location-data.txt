@@ -388,3 +388,4 @@ Mancora_Tumbes_Peru_8.7913868881512_-4.11_-81.05;
 Mancora_Tumbes_Peru_-8.27914428710938_-4.11_-81.06;
 Mancora_Tumbes_Peru_8.1437506666407_-4.11_-81.06;
 Mancora_Tumbes_Peru_22.2384643554688_-4.11_-81.05;
+Mancora_Tumbes_Peru_4.48138427734375_-4.11_-81.05;
