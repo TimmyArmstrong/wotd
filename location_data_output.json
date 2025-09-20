@@ -1,8 +1,8 @@
 {
   "city": "",
-  "state": "",
-  "region": "",
-  "altitude_metres": 12,
-  "latitude": -9.11,
-  "longitude": -78.56
+  "state": "Lima",
+  "region": "Peru",
+  "altitude_metres": 148,
+  "latitude": -12.09,
+  "longitude": -77.02
 }
