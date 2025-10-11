@@ -1,8 +1,8 @@
 {
-  "city": "Lima",
-  "state": "Lima",
+  "city": "",
+  "state": "Ancash",
   "region": "Peru",
-  "altitude_metres": 80,
-  "latitude": -12.14,
-  "longitude": -77.02
+  "altitude_metres": 3093,
+  "latitude": -9.53,
+  "longitude": -77.52
 }
