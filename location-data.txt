@@ -497,3 +497,4 @@ La Paz_La Paz_Bolivia_3620.28826121841_-16.5_-68.13;
 La Paz_La Paz_Bolivia_3637.40705131741_-16.5_-68.13;
 La Paz_La Paz_Bolivia_3624.13561630249_-16.5_-68.13;
 La Paz_La Paz_Bolivia_3607.15142364502_-16.5_-68.13;
+La Paz_La Paz_Bolivia_3620.42127868652_-16.5_-68.13;
