@@ -1,8 +1,8 @@
 {
-  "city": "",
-  "state": "",
-  "region": "",
-  "altitude_metres": 1336,
-  "latitude": -16.2,
-  "longitude": -67.76
+  "city": "La Paz",
+  "state": "La Paz",
+  "region": "Bolivia",
+  "altitude_metres": 3610,
+  "latitude": -16.5,
+  "longitude": -68.13
 }
