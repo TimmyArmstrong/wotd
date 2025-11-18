@@ -543,3 +543,4 @@ La Paz_La Paz_Bolivia_3688.88952255249_-16.49_-68.14;
 _Oruro_Bolivia_3732.67214382533_-18.14_-66.99;
 Sucre_Chuquisaca_Bolivia_2828.25412750244_-19.05_-65.25;
 Sucre_Chuquisaca_Bolivia_2777.88547515869_-19.05_-65.26;
+Sucre_Chuquisaca_Bolivia_2788.09940953273_-19.05_-65.26;
