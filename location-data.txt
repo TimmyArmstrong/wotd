@@ -553,3 +553,4 @@ Sucre_Chuquisaca_Bolivia_2787.92735911174_-19.05_-65.26;
 Salar de Uyuni_Potosí_Bolivia_3611.84866646587_-20.46_-66.82;
 _Potosí_Bolivia_3668.23421859741_-20.33_-66.92;
 _Potosí_Bolivia_3672.09701156616_-20.9_-67.77;
+_Potosí_Bolivia_3694.50998311989_-20.9_-67.77;
