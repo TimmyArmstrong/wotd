@@ -556,3 +556,4 @@ _Potosí_Bolivia_3672.09701156616_-20.9_-67.77;
 _Potosí_Bolivia_3694.50998311989_-20.9_-67.77;
 San Pedro de Atacama_Antofagasta Region_Chile_2432.25_-22.91_-68.19;
 San Pedro de Atacama_Antofagasta Region_Chile_2432.46301651001_-22.91_-68.2;
+San Pedro de Atacama_Antofagasta Region_Chile_2436.04976846675_-22.91_-68.2;
