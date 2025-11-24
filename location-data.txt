@@ -562,3 +562,4 @@ San Pedro de Atacama_Antofagasta Region_Chile_2435.58016586304_-22.91_-68.2;
 San Pedro de Atacama_Antofagasta Region_Chile_2440.97900390625_-22.91_-68.2;
 San Pedro de Atacama_Antofagasta Region_Chile_2435.85916654077_-22.91_-68.2;
 San Pedro de Atacama_Antofagasta Region_Chile_2436.89111328125_-22.91_-68.2;
+San Pedro de Atacama_Antofagasta Region_Chile_2440.61645507812_-22.91_-68.2;
