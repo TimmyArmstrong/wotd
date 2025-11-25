@@ -1,8 +1,8 @@
 {
-  "city": "San Pedro de Atacama",
+  "city": "Antofagasta",
   "state": "Antofagasta Region",
   "region": "Chile",
-  "altitude_metres": 2441,
-  "latitude": -22.91,
-  "longitude": -68.2
+  "altitude_metres": 23,
+  "latitude": -23.66,
+  "longitude": -70.4
 }
