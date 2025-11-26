@@ -1,8 +1,8 @@
 {
-  "city": "Antofagasta",
-  "state": "Antofagasta Region",
+  "city": "La Serena",
+  "state": "Coquimbo Region",
   "region": "Chile",
-  "altitude_metres": 15,
-  "latitude": -23.66,
-  "longitude": -70.4
+  "altitude_metres": 14,
+  "latitude": -29.9,
+  "longitude": -71.26
 }
