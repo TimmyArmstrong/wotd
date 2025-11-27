@@ -569,3 +569,4 @@ Antofagasta_Antofagasta Region_Chile_11.1089496612549_-23.66_-70.4;
 Antofagasta_Antofagasta Region_Chile_15.0533318808302_-23.66_-70.4;
 La Serena_Coquimbo Region_Chile_14.4786510467529_-29.9_-71.26;
 La Serena_Coquimbo Region_Chile_18.8416859663104_-29.9_-71.26;
+La Serena_Coquimbo Region_Chile_18.8794565471326_-29.9_-71.26;
