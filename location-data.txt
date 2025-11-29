@@ -577,3 +577,4 @@ La Serena_Coquimbo Region_Chile_15.0806845092773_-29.9_-71.26;
 La Serena_Coquimbo Region_Chile_15.0892979325043_-29.9_-71.26;
 La Serena_Coquimbo Region_Chile_388.399061203003_-29.94_-71.22;
 La Serena_Coquimbo Region_Chile_14.379102891311_-29.91_-71.26;
+La Serena_Coquimbo Region_Chile_18.8975961377073_-29.9_-71.26;
