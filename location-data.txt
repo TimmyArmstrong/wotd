@@ -582,3 +582,4 @@ La Serena_Coquimbo Region_Chile_18.7366213237927_-29.9_-71.26;
 Ovalle_Coquimbo Region_Chile_227.404630661011_-30.93_-71.64;
 Providencia_Santiago Metropolitan Region_Chile_577.324710845947_-33.45_-70.63;
 _Santiago Metropolitan Region_Chile_579.944062538822_-33.43_-70.64;
+Providencia_Santiago Metropolitan Region_Chile_583.395511627197_-33.43_-70.63;
