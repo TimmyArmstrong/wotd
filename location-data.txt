@@ -585,3 +585,4 @@ _Santiago Metropolitan Region_Chile_579.944062538822_-33.43_-70.64;
 Providencia_Santiago Metropolitan Region_Chile_583.395511627197_-33.43_-70.63;
 Pichilemu_O'Higgins Region_Chile_4.09429931640625_-34.38_-72.01;
 Pichilemu_O'Higgins Region_Chile_23.5772554016113_-34.39_-72;
+Pichilemu_O'Higgins Region_Chile_18.0589599609375_-34.39_-72.01;
