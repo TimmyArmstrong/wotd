@@ -605,3 +605,4 @@ Pichilemu_O'Higgins Region_Chile_22.470947265625_-34.39_-72;
 Pichilemu_O'Higgins Region_Chile_6.16363525390625_-34.38_-72.01;
 Pichilemu_O'Higgins Region_Chile_15.847900390625_-34.39_-72.01;
 Pichilemu_O'Higgins Region_Chile_35.8310108184814_-34.39_-72;
+Pichilemu_O'Higgins Region_Chile_23.1228637695312_-34.39_-72;
