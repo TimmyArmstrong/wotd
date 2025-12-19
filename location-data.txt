@@ -656,3 +656,4 @@ Pichilemu_O'Higgins Region_Chile_31.610254713783_-34.39_-72;
 Pichilemu_O'Higgins Region_Chile_28.0021143672841_-34.39_-72;
 Pichilemu_O'Higgins Region_Chile_33.0460277809973_-34.39_-72;
 Curacaví_Santiago Metropolitan Region_Chile_296.208000183105_-33.44_-71;
+Valparaiso_Valparaíso Region_Chile_48.8712607236622_-33.05_-71.63;
