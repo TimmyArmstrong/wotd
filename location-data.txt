@@ -660,3 +660,4 @@ Valparaiso_Valparaíso Region_Chile_48.8712607236622_-33.05_-71.63;
 Valparaiso_Valparaíso Region_Chile_53.4341861100733_-33.05_-71.63;
 Valparaiso_Valparaíso Region_Chile_7.97641181945801_-33.04_-71.63;
 Valparaiso_Valparaíso Region_Chile_57.0466022491455_-33.04_-71.63;
+Valparaiso_Valparaíso Region_Chile_59.3522399532798_-33.05_-71.63;
