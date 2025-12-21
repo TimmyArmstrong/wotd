@@ -664,3 +664,4 @@ Valparaiso_Valparaíso Region_Chile_59.3522399532798_-33.05_-71.63;
 Valparaiso_Valparaíso Region_Chile_53.6715428538764_-33.05_-71.63;
 Valparaiso_Valparaíso Region_Chile_45.1919269561768_-33.04_-71.63;
 Providencia_Santiago Metropolitan Region_Chile_570.603873786926_-33.44_-70.63;
+Providencia_Santiago Metropolitan Region_Chile_573.533873786926_-33.45_-70.63;
