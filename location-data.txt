@@ -670,3 +670,4 @@ Providencia_Santiago Metropolitan Region_Chile_578.220549036291_-33.44_-70.63;
 Providencia_Santiago Metropolitan Region_Chile_575.339078617986_-33.44_-70.63;
 Providencia_Santiago Metropolitan Region_Chile_578.577776805663_-33.44_-70.63;
 Providencia_Santiago Metropolitan Region_Chile_576.828976311308_-33.44_-70.63;
+Providencia_Santiago Metropolitan Region_Chile_578.611563424076_-33.44_-70.63;
