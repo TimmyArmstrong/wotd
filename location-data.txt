@@ -678,3 +678,4 @@ Estación Central_Santiago Metropolitan Region_Chile_524.675428081538_-33.45_-70
 Rancagua_O'Higgins Region_Chile_520.797086461831_-34.18_-70.73;
 Rancagua_O'Higgins Region_Chile_519.178272027591_-34.18_-70.73;
 Rancagua_O'Higgins Region_Chile_517.257630869336_-34.18_-70.73;
+Rancagua_O'Higgins Region_Chile_521.891235351562_-34.18_-70.73;
