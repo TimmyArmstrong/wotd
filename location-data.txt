@@ -675,3 +675,4 @@ Providencia_Santiago Metropolitan Region_Chile_574.4914782281_-33.45_-70.62;
 Providencia_Santiago Metropolitan Region_Chile_578.531084746957_-33.44_-70.63;
 Providencia_Santiago Metropolitan Region_Chile_578.530024261117_-33.44_-70.63;
 Estación Central_Santiago Metropolitan Region_Chile_524.675428081538_-33.45_-70.68;
+Rancagua_O'Higgins Region_Chile_520.797086461831_-34.18_-70.73;
