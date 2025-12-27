@@ -688,3 +688,4 @@ ___520.232378638806_-34.18_-70.73;
 Rancagua_O'Higgins Region_Chile_518.906392231725_-34.18_-70.73;
 Rancagua_O'Higgins Region_Chile_520.28980146906_-34.18_-70.73;
 Rancagua_O'Higgins Region_Chile_511.786288490295_-34.18_-70.73;
+Rancagua_O'Higgins Region_Chile_515.463640365601_-34.18_-70.74;
