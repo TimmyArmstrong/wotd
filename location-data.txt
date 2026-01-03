@@ -714,3 +714,4 @@ Cuauhtémoc_CDMX_Mexico_2245.41600518738_19.44_-99.13;
 Chalco_Edo. Méx._Mexico_2788.79183578491_19.3_-98.77;
 Oaxaca_Oax._Mexico_1570.25196776073_17.1_-96.75;
 Oaxaca_Oax._Mexico_1553.29328154242_17.06_-96.72;
+Oaxaca_Oax._Mexico_1541.39648264822_17.06_-96.73;
