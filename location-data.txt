@@ -737,3 +737,4 @@ Brisas de Zicatela_Oax._Mexico_29.2320039295312_15.84_-97.04;
 Brisas de Zicatela_Oax._Mexico_0_15.84_-97.04;
 Brisas de Zicatela_Oax._Mexico_24.4202790260315_15.84_-97.04;
 Brisas de Zicatela_Oax._Mexico_25.6412873268127_15.84_-97.04;
+Ixtapaluca_Edo. Méx._Mexico_2242.29525375366_19.29_-98.89;
